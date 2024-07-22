@@ -1,0 +1,7 @@
+h1{
+    text-decoration: solid;
+    background-image: url(images/image2.jpg);
+    color: cyan;
+    /* text-decoration: ; */
+    text-decoration: double;
+}
